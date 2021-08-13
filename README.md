@@ -7,7 +7,7 @@
 The hardware and software source code of the Saiyan platform is distributed under academic license to ensure the reproducibility of our results. The hardware and software can NOT be used for commercial purpose.
 
 # Hardware and software
-- Saiyan_hardware includes the files needed for fabricating the Saiyan PCB board.
+Saiyan_hardware includes the files needed for fabricating the Saiyan PCB board.
 
 - 433_RX.pdf is the file of circuit diagram.
 - 433_RX.PrjPCB is the file of PCB project.
@@ -15,7 +15,7 @@ The hardware and software source code of the Saiyan platform is distributed unde
 - 433_RX.PcbDoc is the file of PCB layout.
 
 
-- Saiyan_software includes the files needed for the correlation decoding.
+Saiyan_software includes the files needed for the correlation decoding.
 
 # Reference
 - Saiyan: The Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems. Xiuzhen Guo, Longfei Shangguan, Yuan He, Nan Jing, Jiacheng Zhang, Haotian Jiang, and Yunhao Liu. NSDI 2022.
